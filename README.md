@@ -1,1 +1,3 @@
 # sql-ebac-tarefas-projetos-Data-Analist
+Neste repositórios está sendo armazenado as aulas/tarefas/projetos de SQL 
+do curso de Analista de dados da EBAC.... 
